@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "arroz con leche",
+      "precio": "300",
+      "id": 2
+    },
+    {
+      "nombre": "papas  asdasd",
+      "precio": "5000",
+      "id": 3
+    },
+    {
+      "nombre": "costillas de cerdo",
+      "precio": "28000",
+      "id": 4
+    }
+  ]
+}
